@@ -108,7 +108,7 @@ RECOMANDARI:
 
 
 {% hint style="success" %}
-Abia astept sa ne cunoastem, sa ne vedem online si sa avem discutii fructuoase asupra subiectelor ce le vom avea in prim plan prin intermediul conferintei.
+Abia astept sa ne cunoastem, sa ne vedem online si sa avem discutii fructuoase asupra subiectelor ce le vom aduce in prim plan prin intermediul conferintei.
 {% endhint %}
 
 

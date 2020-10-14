@@ -105,7 +105,27 @@ RECOMANDARI:
 * Daca nu vei folosi casti, atunci cand nu vei vorbi, opreste microfonul, \(cum am aratat in imaginile de mai sus\)
 {% endhint %}
 
+{% hint style="success" %}
+Pentru suport, prin TeamViwer, colegul meu, Daniel Avram va sta la dispozitie 0728049272.
 
+Aplicatia o puteti descarca aici: aici: [https://download.teamviewer.com/full](https://download.teamviewer.com/full) 
+
+\(Click – Salvați – Deschideți aplicația\)
+{% endhint %}
+
+
+
+{% hint style="success" %}
+Abia asteptam sa ne cunoastem, sa ne vedem online si sa avem discutii fructuoase asupra subiectelor ce le vom avea in prim plan prin intermediul conferintei.
+{% endhint %}
+
+{% hint style="success" %}
+Prezentul îl scriem împreună digital.
+
+Cu prietenie,
+
+Petrica Muresan
+{% endhint %}
 
 
 

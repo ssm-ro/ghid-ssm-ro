@@ -34,7 +34,7 @@
   * [11.Structura Dosar](gestionarea-contului-ca-si-companie/untitled.md)
   * [12.Istoric operatii](gestionarea-contului-ca-si-companie/untitled-1.md)
   * [13.Conferinte live](gestionarea-contului-ca-si-companie/7.conferinte-live/README.md)
-    * [Ghid utilizare conferinta, pentru speakeri](gestionarea-contului-ca-si-companie/7.conferinte-live/ghid-utilizare-conferinta-pentru-speakeri.md)
+    * [Ghid utilizare conferinta, pentru speakeri si invitati](gestionarea-contului-ca-si-companie/7.conferinte-live/ghid-utilizare-conferinta-pentru-speakeri.md)
 * [Probleme posibile care pot aparea si cum le poti rezolva](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/README.md)
   * [1.Mi-am uitat parola. Recuperare parola.](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/1.mi-am-uitat-parola.-recuperare-parola..md)
   * [2.Emailul meu e deja folosit in platforma, dar cu alt nume de utilizator.](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/2.emailul-meu-e-deja-folosit-in-platforma-dar-cu-alt-nume-de-utilizator..md)

@@ -6,7 +6,7 @@
 
  Scopul platformei este să permită utilizatorilor să gestioneze, îndeplinească și să controleze activitățile SSM, complet digital, la termenele impuse de lege și în conformitate cu prevederile legale.
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 
 
@@ -20,7 +20,7 @@ Realizezi instruirile și evaluările angajaților la distanță, precum și tes
 
 Interacțiunea cu institutiile publice nu este doar mai rapidă și eficientă, ci și  practică și transparentă.
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 
 
@@ -44,7 +44,7 @@ In platforma SSM poti intra fie pe baza unei invitatii din partea unei firme, fi
 
  **Pasul 1**. Accepti invitatia din partea firmei care ti-a trimis-o si-ti creezi cont.
 
-![](.gitbook/assets/image%20%2877%29.png)
+![](.gitbook/assets/image%20%2885%29.png)
 
 **Pasul 2.**  [**Daca esti Companie/Inspector SSM/Administrator de firma**](cum-iti-creezi-cont-ca-si-companie.md)\*\*\*\*
 
@@ -93,7 +93,7 @@ Prin SSM.ro iti digitalizezi întreaga activitate SSM și te scapă de timpul pe
 
  Indiferent că firma ta are 1 sau 10.000 de angajați, aplicația SSM.ro îți simplifică activitatea.
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 
 

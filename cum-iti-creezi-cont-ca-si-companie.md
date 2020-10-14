@@ -4,7 +4,7 @@
 
 Un coleg va avea grija sa raspunda la solicitarea ta de a intra in platforma, iti va crea un cont de companie, pe  care ulterior ti-l vei gestiona conform nevoilor tale.
 
-![](.gitbook/assets/image%20%2876%29.png)
+![](.gitbook/assets/image%20%2884%29.png)
 
 
 

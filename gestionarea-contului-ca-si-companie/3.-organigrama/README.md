@@ -8,7 +8,7 @@ In principiu, o organigrama este o diagrama/schema organizatorică a unei compan
 
 Astfel de relații ar putea include administratori la angajați, directori la directori executivi, director executiv la diferite departamente, secretariat, etc.
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 ##  
 

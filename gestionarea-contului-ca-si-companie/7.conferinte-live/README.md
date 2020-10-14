@@ -21,7 +21,7 @@ Platforma poate fi accesata, de pe orice dispozitiv:
 
  **Pasul 2**. Adauga o conferinta si da-i un titlu.
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 **Pasul 3.** Adauga pe rand, participanti din contactele existente in listele tale si apasa INVITA.
 
@@ -43,7 +43,7 @@ Poti de asemenea, sa adaugi si alte persoane, pe baza trimiterii unor invitatii 
 
 Pe stanga panoului vezi cine participa la conferinta si poti comunica si cu ajutorului chat-ului disponibil  in partea de jos a ecranului.
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 
 
@@ -57,19 +57,19 @@ Poti participa ca si invitat, ascultand conferinta si cand doresti sa vorbesti, 
 
                                               In imaginea de mai jos, microfonul este activat
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2893%29.png)
 
 \*\*\*\*
 
                                                               Aici avem un microfonul dezactivat
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 \*\*\*\*
 
                                                           Aici nu avem nici audio, nici acces camera
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 \*\*\*\*
 
@@ -77,13 +77,13 @@ Poti participa ca si invitat, ascultand conferinta si cand doresti sa vorbesti, 
 
  Dupa ce termini de prezentat partea ta in conferinta respectiva si doresti doar sa asculti restul prezentarii, dezactiveaza microfonul si ramai pe ascultare, apasand imaginea cu castile.
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 **Pasul 8**. Un pas important, in conferinte live il reprezinta camera web. Asigura-te ca este instalata corespunzator.
 
 Pentru a putea intra in conferinta live cu camera, apasa pe imaginea camerei pentru a permite invitatilor sa te poata vedea.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 **Pasul 9**. Pentru a permite invitatilor sa vada o prezentare care va rula pe ecranul calculatorului lor, apasa imaginea cu ecran si incarca din calculatorul tau, ce fisier doresti sa ruleze. Poate fi o prezentare powerpoint,  documente word, poze, filme de pe youtube.
 
@@ -93,13 +93,13 @@ Pentru a putea intra in conferinta live cu camera, apasa pe imaginea camerei pen
 
 **Pasul 10**. Pentru prezentarile pe intreg ecranul afisat, in dreapta sus, apasati cele 3 puncte si veti avea posibilitatea sa alegeti aceasta varianta.
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 
 
 **Pasul 11**. Pentru deconectarea din conferinta, mergi din nou la cele 3 puncte, din dreapta sus a ecranului si alege Deconectare:
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 
 
@@ -117,11 +117,11 @@ Adauga maximul de participanti.
 
 \*\*\*\*
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 **Pasul 3.** Pe mijlocul ecranului, in partea de sus vei avea imaginea de mai jos.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
      **Pasul 4**. Apasa pe butonul **Porneste inregistrarea**, pentru a inregistra. Daca vei apasa din nou, aceasta se va opri. 
 

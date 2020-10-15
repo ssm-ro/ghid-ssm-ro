@@ -19,9 +19,9 @@
 * [Cum iti creezi cont daca ai rolul de Inspector SSM/Administrator firma/gestionar cont](cum-iti-creezi-cont-ca-si-companie.md)?
 * [Cum gestionezi contul din rolul de angajat?](gestionarea-contului-ca-si-angajat/)
 * [Cum gestionezi contul din rolul de Inspector SSM/Administrator firma/gestionar cont?](gestionarea-contului-ca-si-companie/)
-* Probleme posibile care pot aprea si cum le rezolvi
-* Cum ne poti contacta?
-* Facturare
+* [Probleme posibile care pot aprea si cum le rezolvi](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/)
+* [Cum ne poti contacta?](cum-ne-poti-contacta.md)
+* [Facturare](facturare.md)
 
 ## 
 

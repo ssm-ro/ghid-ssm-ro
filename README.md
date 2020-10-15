@@ -34,11 +34,9 @@ Institutiile nu au acces la conturi sau documente, decat in cazurile mentionate 
 
 ## 1.Cum ai acces pe platforma SSM?
 
-In platforma SSM poti intra fie pe baza unei invitatii din partea unei firme, fie  esti o companie/administrator/inspector SSM, care doreste sa foloseasca platforma.
+In platforma SSM poti intra fie pe baza unei invitatii din partea unei firme, fie ne scrii  la contact@ssm.ro pentru a-ti face cont cu rol de gestionare, pentru Inspectorii SSM sau pentru persoanele care vor gestiona contul \(poti fi angajat la o firma si ai rolul de a gestiona contul de SSM pentru firma ta, fie ca esti chiar tu patronul firmei tale si vei\).
 
  
-
-
 
 ## 2. Cum iti faci cont pe platforma ssm.ro?
 

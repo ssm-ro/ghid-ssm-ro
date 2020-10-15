@@ -2,6 +2,7 @@
 
 * [Platforma ssm.ro -Ghid de utilizare](README.md)
 * [Contul si rolurile pe care le poti avea in platforma](contul-si-rolurile-pe-care-le-poti-indeplini.md)
+* [Serviciul intern si extern SSM si rolurile in platforma](serviciul-intern-si-extern-ssm-si-rolurile-in-platforma.md)
 * [Cum iti creezi cont daca ai rol de angajat](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md)
 * [Cum iti creezi cont daca ai rolul de Inspector SSM/Administator firma](cum-iti-creezi-cont-ca-si-companie.md)
 * [Cum iti gestionezi contul daca ai rolul de angajat intr-o firma](gestionarea-contului-ca-si-angajat/README.md)

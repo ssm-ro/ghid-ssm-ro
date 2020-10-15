@@ -43,7 +43,6 @@
   * [4.N-am primit sms pentru semnarea instruirii](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/4.n-am-primit-sms-pentru-semnarea-instruirii.md)
   * [5.Mi-am sters contul din greseala.](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/5.mi-am-sters-contul-din-greseala..md)
   * [6. Am apasat pe butonul REFUZA, in loc de ACCEPTA INVITATIA.](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/6.-am-apasat-pe-butonul-refuza-in-loc-de-accepta-invitatia..md)
-  * [7.Validarea contului la inscrierea in aplicatie.](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/7.validarea-contului-la-inscrierea-in-aplicatie..md)
   * [8. Nu pot incarca imaginea cu Cartea de Identitate.](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/8.-nu-pot-incarca-imaginea-cu-cartea-de-identitate..md)
   * [Untitled](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/untitled-7.md)
   * [Untitled](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/untitled-8.md)

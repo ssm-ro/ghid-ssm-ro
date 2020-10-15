@@ -1,2 +1,2 @@
-# Serviciul intern si extern SSM si rolurile in platforma
+# Serviciul intern/extern SSM si rolurile in platforma
 

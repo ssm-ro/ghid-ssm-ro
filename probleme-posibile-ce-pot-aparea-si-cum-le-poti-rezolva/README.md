@@ -1,4 +1,4 @@
-# Probleme posibile care pot aparea si cum le poti rezolva
+# Probleme posibile care pot aparea si cum le rezolvi
 
  
 

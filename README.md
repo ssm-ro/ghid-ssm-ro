@@ -1,5 +1,38 @@
 # Platforma ssm.ro -Ghid de utilizare
 
+## 
+
+## Cuprins:
+
+  
+
+* [Ce este platforma SSM?](./#ce-este-platforma-ssm)
+* [De ce SSM.ro?](./#de-ce-ssm-ro)
+* [Cum ai acces in platforma SSM?](./#cum-ai-acces-pe-platforma-ssm)
+* [Cum iti faci cont in platforma SSM?](./#cum-iti-faci-cont-pe-platforma-ssm-ro)
+* [Utilizator si parola pentru un cont in siguranta](./#utilizator-si-parola-pentru-un-cont-in-siguranta)
+* [Ce avantaje ai cu platforma SSM?](./#ce-avantaje-ai-cu-aplicatia-ssm-ro)
+* [Ce functionalitati ofera platforma SSM?](./#ce-functionalitati-ofera-ssm-ro)
+* [Contul si rolurile pe care le poti avea in platforma](contul-si-rolurile-pe-care-le-poti-indeplini.md)
+* [Serviciul inter/extern SSM in platforma](serviciul-intern-si-extern-ssm-si-rolurile-in-platforma.md)
+* [Cum iti creezi cont daca ai rol de angajat?](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md)
+* [Cum iti creezi cont daca ai rolul de Inspector SSM/Administrator firma/gestionar cont](cum-iti-creezi-cont-ca-si-companie.md)?
+* [Cum gestionezi contul din rolul de angajat?](gestionarea-contului-ca-si-angajat/)
+* [Cum gestionezi contul din rolul de Inspector SSM/Administrator firma/gestionar cont?](gestionarea-contului-ca-si-companie/)
+* Probleme posibile care pot aprea si cum le rezolvi
+* Cum ne poti contacta?
+* Facturare
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
 ## Ce este platforma SSM?
 
  SSM.ro este o ****aplicație informatică din România,  accesibilă de pe desktop și mobil, care creează posibilitatea organizării activității privind securitatea și sănătatea în muncă, care da posibilitatea efectuarii tuturor tipurilor de instruire a angajaților și testarea acestora online.  
@@ -32,13 +65,13 @@ Relatia cu Institutiile va fi mult mai usoara. Datele pot fi incarcate pe un sti
 Institutiile nu au acces la conturi sau documente, decat in cazurile mentionate mai sus.
 {% endhint %}
 
-## 1.Cum ai acces pe platforma SSM?
+##  Cum ai acces pe platforma SSM?
 
 In platforma SSM poti intra fie pe baza unei invitatii din partea unei firme, fie ne scrii  la contact@ssm.ro pentru a-ti face cont cu rol de gestionare, pentru Inspectorii SSM sau pentru persoanele care vor gestiona contul \(poti fi angajat la o firma si ai rolul de a gestiona contul de SSM pentru firma ta, fie ca esti chiar tu patronul firmei tale si vei\).
 
  
 
-## 2. Cum iti faci cont pe platforma ssm.ro?
+##  Cum iti faci cont pe platforma ssm.ro?
 
  **Pasul 1**. Accepti invitatia din partea firmei care ti-a trimis-o si-ti creezi cont.
 
@@ -60,7 +93,7 @@ Poti fi angajat, administrator de firma, vizitator, control-audit sau inspector 
 
 
 
-## 3.  Utilizator si parola pentru un cont in siguranta
+##    Utilizator si parola pentru un cont in siguranta
 
 Pasul 1**. Utilizatorul**  vei fi tu si te vei inscrie in platforma cu numele tau.
 
@@ -76,7 +109,7 @@ O parola te va ajuta:
 
 \*\*\*\*
 
-## 4. Ce avantaje ai cu aplicatia SSM.ro?
+##   Ce avantaje ai cu aplicatia SSM.ro?
 
 * Prin aplicatia SSM.ro poti realiza instruirile și evaluările angajaților la distanță, precum și testările periodice prin chestionare online.
 * Indiferent de numărul de angajați și colaboratori, nu există limită de documente pe care le poți avea în gestiune.
@@ -85,7 +118,7 @@ O parola te va ajuta:
 * Reduci la minim timpul, energia si eforturile, prin eficientizarea activitatii online 
 * Realizezi instruirile și evaluările angajaților la distanță, precum și testările periodice prin chestionare online.
 
-## 5. Ce functionalitati ofera SSM.ro?
+##  Ce functionalitati ofera SSM.ro?
 
 Prin SSM.ro iti digitalizezi întreaga activitate SSM și te scapă de timpul petrecut cu instruirile, evaluările și semnarea documentelor prin generarea de documente, generarea de tematici, generarea de instruiri si semnaturi.
 
@@ -93,7 +126,7 @@ Prin SSM.ro iti digitalizezi întreaga activitate SSM și te scapă de timpul pe
 
 ![](.gitbook/assets/image%20%2835%29.png)
 
-
+## 
 
 
 

@@ -1,4 +1,4 @@
-# Cum iti creezi cont daca ai rol de angajat
+# Cum iti creezi cont daca esti angajat intr-o firma
 
 In cazul in care, esti angajat, si trebuie sa-ti faci prima instruire online.
 

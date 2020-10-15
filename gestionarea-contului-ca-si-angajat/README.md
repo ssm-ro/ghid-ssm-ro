@@ -1,4 +1,4 @@
-# Cum iti gestionezi contul ca angajat intr-o firma?
+# Cum iti gestionezi contul daca ai rolul de angajat intr-o firma
 
 Contul tau de angajat in platforma ssm.ro contine toate documentele pe care firma/compania la care lucrezi ti le-a atribuit si are nevoie ca tu sa le parcurgi/vizualizezi/semnezi. 
 

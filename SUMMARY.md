@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Platforma ssm.ro -Ghid de utilizare](README.md)
-* [Contul si rolurile pe care le poti avea in platforma](contul-si-rolurile-pe-care-le-poti-indeplini.md)
+* [Contul de SSM si rolurile pe care le poti avea in platforma](contul-si-rolurile-pe-care-le-poti-indeplini.md)
 * [Serviciul intern/extern SSM in platforma](serviciul-intern-si-extern-ssm-si-rolurile-in-platforma.md)
 * [Cum iti creezi cont daca esti angajat intr-o firma](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md)
 * [Cum iti gestionezi contul ca angajat intr-o firma?](gestionarea-contului-ca-si-angajat/README.md)
@@ -21,7 +21,7 @@
   * [Untitled](gestionarea-contului-ca-si-angajat/untitled-1.md)
   * [Untitled](gestionarea-contului-ca-si-angajat/untitled.md)
 * [Cum iti creezi cont daca esti Inspector SSM?](cum-iti-creezi-cont-ca-si-companie.md)
-* [Cum iti gestionezi contul din rolul de Inspector SSM/Administrator firma/gestionar cont](gestionarea-contului-ca-si-companie/README.md)
+* [Cum iti gestionezi contul daca esti Inspector SSM?](gestionarea-contului-ca-si-companie/README.md)
   * [1.Ce reprezinta contul meu de Inspector SSM?](gestionarea-contului-ca-si-companie/1.ce-contine-contul-meu-de-inspector-ssm.md)
   * [2.Cum introduc lista cu angajati?](gestionarea-contului-ca-si-companie/2.cum-introduc-lista-cu-angajati.md)
   * [4.Cum incarc instructiuni in platforma?](gestionarea-contului-ca-si-companie/4.cum-incarc-instructiuni-in-platforma.md)

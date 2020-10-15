@@ -4,7 +4,7 @@
 * [Contul de SSM si rolurile pe care le poti avea in platforma](contul-si-rolurile-pe-care-le-poti-indeplini.md)
 * [Serviciul intern/extern SSM in platforma](serviciul-intern-si-extern-ssm-si-rolurile-in-platforma.md)
 * [Cum iti creezi cont daca esti angajat intr-o firma](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md)
-* [Cum iti gestionezi contul ca angajat intr-o firma?](gestionarea-contului-ca-si-angajat/README.md)
+* [Cum iti gestionezi contul daca esti angajat intr-o firma?](gestionarea-contului-ca-si-angajat/README.md)
   * [1. De ce ai primit email de la SSM.ro?](gestionarea-contului-ca-si-angajat/1.-de-ce-ai-primit-email-de-la-ssm.ro.md)
   * [2.Contul tau de SSM](gestionarea-contului-ca-si-angajat/2.contul-tau-de-ssm.md)
   * [3. Ce acte poate contine contul tau de SSM?](gestionarea-contului-ca-si-angajat/3.-ce-acte-poate-contine-contul-tau-de-ssm.md)

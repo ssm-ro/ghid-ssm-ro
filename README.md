@@ -15,9 +15,9 @@
 * [Ce functionalitati ofera platforma SSM?](./#ce-functionalitati-ofera-ssm-ro)
 * [Contul si rolurile pe care le poti avea in platforma](contul-si-rolurile-pe-care-le-poti-indeplini.md)
 * [Serviciul inter/extern SSM in platforma](serviciul-intern-si-extern-ssm-si-rolurile-in-platforma.md)
-* [Cum iti creezi cont daca ai rol de angajat?](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md)
-* [Cum iti creezi cont daca ai rolul de Inspector SSM/Administrator firma/gestionar cont](cum-iti-creezi-cont-ca-si-companie.md)?
-* [Cum gestionezi contul din rolul de angajat?](gestionarea-contului-ca-si-angajat/)
+* [Cum iti creezi cont daca esti angajat intr-o firma?](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md)
+* [Cum gestionezi contul daca esti angajat intr-o firma?](gestionarea-contului-ca-si-angajat/)
+* * [Cum iti creezi cont daca ai rolul de Inspector SSM/Administrator firma/gestionar cont](cum-iti-creezi-cont-ca-si-companie.md)?
 * [Cum gestionezi contul din rolul de Inspector SSM/Administrator firma/gestionar cont?](gestionarea-contului-ca-si-companie/)
 * [Probleme posibile care pot aprea si cum le rezolvi](probleme-posibile-ce-pot-aparea-si-cum-le-poti-rezolva/)
 * [Cum ne poti contacta?](cum-ne-poti-contacta.md)

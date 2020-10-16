@@ -54,15 +54,13 @@
 
 ## 
 
-## 
 
-## 
 
 ## Ce este platforma SSM?
 
- SSM.ro este o ****aplicație informatică din România,  accesibilă de pe desktop și mobil, care creează posibilitatea organizării activității privind securitatea și sănătatea în muncă, care da posibilitatea efectuarii tuturor tipurilor de instruire a angajaților și testarea acestora online.  
+ SSM.ro este o ****aplicație informatică din România,  accesibilă de pe desktop, tableta sau mobil, avand posibilitatea organizarii activitații privind securitatea și sanatatea în munca, si efectuarea tuturor tipurilor de instruire a angajaților și testarea acestora online.  
 
- Scopul platformei este să permită utilizatorilor să gestioneze, îndeplinească și să controleze activitățile SSM, complet digital, la termenele impuse de lege și în conformitate cu prevederile legale.
+ Scopul platformei este sa permita utilizatorilor sa gestioneze, indeplinească și sa controleze activitațile SSM, complet digital, la termenele impuse de lege și în conformitate cu prevederile legale.
 
 ![](.gitbook/assets/image%20%2820%29.png)
 
@@ -74,9 +72,9 @@ E prima aplicatie de acest gen din Romania si cu noi ai sansa si totodata oportu
 
 Suntem o echipa tanara, entuziasta, pregatita si competenta in acest domeniu si te vom ajuta pas cu pas in utilizarea platformei SSM, pentru a-ti usura munca si a-ti eficientiza timpul si spatiul.
 
-Realizezi instruirile și evaluările angajaților la distanță, precum și testările periodice prin chestionare online.
+Realizezi instruirile si evaluarile angajatilor la distanta, precum și testarile periodice prin chestionare online.
 
-Interacțiunea cu institutiile publice nu este doar mai rapidă și eficientă, ci și  practică și transparentă.
+Interacțiunea cu institutiile publice nu este doar mai rapida si eficienta, ci si  practica si transparenta.
 
 ![](.gitbook/assets/image%20%2851%29.png)
 
@@ -85,34 +83,42 @@ Interacțiunea cu institutiile publice nu este doar mai rapidă și eficientă, 
 
 
 {% hint style="success" %}
-Relatia cu Institutiile va fi mult mai usoara. Datele pot fi incarcate pe un stick si trimise acolo unde vor fi cerute. Daca ai o inspectie, poti oferi contul de audit-control din aplicatie, pentru vizualizarea tuturor actelor care sunt aprobate.
+Relatia cu Institutiile va fi mult mai usoara. Datele pot fi incarcate pe un stick si trimise acolo unde vor fi cerute. Daca ai o inspectie, poti oferi rolul de audit-control din aplicatie, pentru vizualizarea tuturor actelor care sunt aprobate.
 
 Institutiile nu au acces la conturi sau documente, decat in cazurile mentionate mai sus.
 {% endhint %}
 
 ##  Cum ai acces pe platforma SSM?
 
-In platforma SSM poti intra fie pe baza unei invitatii din partea unei firme, fie ne scrii  la contact@ssm.ro pentru a-ti face cont cu rol de gestionare, pentru Inspectorii SSM sau pentru persoanele care vor gestiona contul \(poti fi angajat la o firma si ai rolul de a gestiona contul de SSM pentru firma ta, fie ca esti chiar tu patronul firmei tale si vei\).
+In platforma SSM poti intra, fie pe baza unei invitatii din partea unei firme, daca esti angajat, fie ne scrii la **contact@ssm.ro** pentru a-ti face cont de Inspector SSM pentru gestionarea documentelor SSM a unei firmei sau mai multe.
+
+ 
 
  
 
 ##  Cum iti faci cont pe platforma ssm.ro?
 
- **Pasul 1**. Accepti invitatia din partea firmei care ti-a trimis-o si-ti creezi cont.
+ **Pasul 1**. [**Daca esti angajat**](cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md), accepti invitatia din partea firmei care ti-a trimis-o si-ti creezi cont.
 
 ![](.gitbook/assets/image%20%2885%29.png)
 
-**Pasul 2.**  [**Daca esti Companie/Inspector SSM/Administrator de firma**](cum-iti-creezi-cont-ca-si-companie.md)\*\*\*\*
-
-Te rugam sa ne contactezi la  contact@ssm.ro pentru contul tau de Inspector SSM sau administrator firma.
+**Pasul 2.**  [**Daca esti Inspector SSM**](cum-iti-creezi-cont-ca-si-companie.md)**,** te rugam sa ne contactezi la  **contact@ssm.ro** pentru contul tau de Inspector SSM 
 
   
 
 {% hint style="info" %}
 In platforma SSM iti creezi un singur cont si poti indeplini mai multe roluri.
 
-Poti fi angajat, administrator de firma, vizitator, control-audit sau inspector SSM.
+ 
 {% endhint %}
+
+
+
+Platforma SSM are 3 interfete, 3 roluri, daca vrei: cel de gestionare aplicatie/cont, cel de audit control si cel personal cu 3 aplicabilitati,\(adminsitrator firma, angajat, vizitator\).
+
+![](.gitbook/assets/image%20%28117%29.png)
+
+
 
 
 

@@ -10,7 +10,7 @@ Structura de dosar cuprinde actele necesare, pe fiecare categorie in parte, care
 
 Toate fisele din imaginea de mai jos sunt selectate cu verde, asta inseamna ca sunt necesare . 
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 Daca consideri, ca un angajat nu are nevoie de un anume act, il vei debifa din lista
 
@@ -18,7 +18,7 @@ Daca consideri, ca un angajat nu are nevoie de un anume act, il vei debifa din l
 
 Poti schimba si edita titlul actului, apsand pe creionul albastru, care va aparea in dreptul fiecarui act/document din lista, in partea dreapta a ecranului.
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 \*\*\*\*
 

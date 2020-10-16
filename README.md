@@ -29,7 +29,7 @@
 * [Pot avea acces la mai mult firme?](gestionarea-contului-ca-si-angajat/untitled-2.md)
 * [Cum iti creezi cont daca esti  Inspector SSM?](cum-iti-creezi-cont-ca-si-companie.md)
 * [Cum gestionezi contul daca esti  Inspector SSM?](gestionarea-contului-ca-si-companie/)
-* [Ce resprezinta contul meu de Inspector SSM? ](gestionarea-contului-ca-si-companie/1.ce-contine-contul-meu-de-inspector-ssm.md)
+* [Ce reprezinta contul meu de Inspector SSM? ](gestionarea-contului-ca-si-companie/1.ce-contine-contul-meu-de-inspector-ssm.md)
 * [Cum introduc lista cu angajati?](gestionarea-contului-ca-si-companie/2.cum-introduc-lista-cu-angajati.md)
 * [Cum incarc instructiuni in platforma?](gestionarea-contului-ca-si-companie/4.cum-incarc-instructiuni-in-platforma.md)
 * [Completarea si generarea documentelor/fiselor SSM](gestionarea-contului-ca-si-companie/5.completarea-documentelor.md)

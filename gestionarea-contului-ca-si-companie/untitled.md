@@ -1,4 +1,4 @@
-# 11.Structura Dosar
+# 12.Structura Dosar
 
 Structura de dosar cuprinde actele necesare, pe fiecare categorie in parte, care ar trebui sa fie prezente in dosarul angajatului, sau al departamentului.
 

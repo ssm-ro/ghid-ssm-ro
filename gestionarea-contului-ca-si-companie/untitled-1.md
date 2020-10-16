@@ -1,4 +1,4 @@
-# 12.Istoric operatii
+# 13.Istoric operatii
 
 In **Istoric operatii** se vor pastra toate modificarile efectuate in cont, pas cu pas.
 

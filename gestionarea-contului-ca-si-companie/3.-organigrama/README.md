@@ -2,7 +2,7 @@
 description: Diagrama organizatorica
 ---
 
-# 9. Organigrama
+# 10. Organigrama
 
 In principiu, o organigrama este o diagrama/schema organizatorică a unei companii si ilustrează, relațiile dintre oamenii din cadrul unei organizații.
 

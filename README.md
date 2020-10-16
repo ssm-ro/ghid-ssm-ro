@@ -35,6 +35,7 @@
 * [Completarea si generarea documentelor/fiselor SSM](gestionarea-contului-ca-si-companie/5.completarea-documentelor.md)
 * [Cum import chestionare?](gestionarea-contului-ca-si-companie/5.-cum-import-chestionare.md)
 * [Cum generez o fisa de instruire?](gestionarea-contului-ca-si-companie/6.cum-generez-o-fisa-de-instruire.md)
+* Cum generez o tematica?
 * [Contacte](gestionarea-contului-ca-si-companie/7.contacte.md)
 * [Organigrama](gestionarea-contului-ca-si-companie/3.-organigrama/)
 * [Cum realizez o organigrama?](gestionarea-contului-ca-si-companie/3.-organigrama/3.1.cum-realizez-o-organigrama.md)

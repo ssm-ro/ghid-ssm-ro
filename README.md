@@ -107,14 +107,14 @@ In platforma SSM poti intra, fie pe baza unei invitatii din partea unei firme, d
   
 
 {% hint style="info" %}
-In platforma SSM iti creezi un singur cont si poti indeplini mai multe roluri.
+In platforma SSM iti creezi un [singur cont si poti indeplini mai multe roluri.](contul-si-rolurile-pe-care-le-poti-indeplini.md)
 
  
 {% endhint %}
 
 
 
-Platforma SSM are 3 interfete, 3 roluri, daca vrei: cel de gestionare aplicatie/cont, cel de audit control si cel personal cu 3 aplicabilitati,\(adminsitrator firma, angajat, vizitator\).
+Platforma SSM are [3 interfete, 3 roluri](contul-si-rolurile-pe-care-le-poti-indeplini.md), daca vrei: cel de gestionare aplicatie/cont, cel de audit control si cel personal cu 3 subroluri \(administrator firma, angajat, vizitator\).
 
 ![](.gitbook/assets/image%20%28117%29.png)
 

@@ -1,3 +1,7 @@
+---
+description: Trecutul a fost scris pe hartie. Prezentul il scriem impreună digital.
+---
+
 # Platforma ssm.ro -Ghid de utilizare
 
 ## 

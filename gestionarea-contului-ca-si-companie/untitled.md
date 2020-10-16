@@ -10,15 +10,15 @@ Structura de dosar cuprinde actele necesare, pe fiecare categorie in parte, care
 
 Toate fisele din imaginea de mai jos sunt selectate cu verde, asta inseamna ca sunt necesare . 
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 Daca consideri, ca un angajat nu are nevoie de un anume act, il vei debifa din lista
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28115%29.png)
 
 Poti schimba si edita titlul actului, apsand pe creionul albastru, care va aparea in dreptul fiecarui act/document din lista, in partea dreapta a ecranului.
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 \*\*\*\*
 
@@ -34,7 +34,7 @@ In categoria "**Alte documente**" vor intra acele acte, pe care doresti sa le in
 
 De asemenea si aici vei putea debifa, daca consideri ca nu-s necesare intr-o firma.
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 
 

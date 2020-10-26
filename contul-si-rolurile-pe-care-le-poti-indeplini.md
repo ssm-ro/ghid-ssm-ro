@@ -10,7 +10,7 @@ Se va creea un singur cont, in care utilizatorul poate avea mai multe roluri.
 
 **Ce inseamna aceste roluri?** 
 
-Un rol poate fi o interfata.  
+Un rol este o interfata.  
 
 3 roluri, 3 interfete.
 

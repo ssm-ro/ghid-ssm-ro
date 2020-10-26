@@ -38,9 +38,11 @@ In contul tau poti avea mai multe firme si in fiecare din ele poti indeplini rol
 
 Alege rolul pe care-l ai si vezi documentatia.
 
-![](.gitbook/assets/image%20%28122%29.png)
+![](.gitbook/assets/image%20%28123%29.png)
 
-**Gestionarea aplicatiei** inseamna ****ca ai rol de gestionare si poti fi Inspector SSM,  poti fi persoana care se va ocupa integral de documentatia SSM pentru o  firma care te-a numit in acest rol, poti fi chiar administratorul firmei tale si doresti sa ai si rolul de gestionare al aplicatiei SSM.
+**Gestionarea aplicatiei** inseamna ****ca ai rol de gestionare si ai acces la tot panoul platformei, la toate actele, documentele, fisele, etc.
+
+Acest rol il are un Inspector SSM, il poate avea o persoana care se va ocupa integral de documentatia SSM pentru firma care l-a numit in acest rol, poate fi chiar administratorul firmei sale, daca doreste sa aiba acces la toate documentele SSM, poate fi oricine primeste acest drept din partea unei firme.
 
 Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si pot avea acces mai multe persoane, desigur, fiecare cu contul sau.
 
@@ -48,7 +50,17 @@ Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si
 
 
 
-**Documente mele.**  
+**Documente mele.**  De regula, acest rol e cel de angajat si are acces doar la documentele pe care firma  i le va pune la dispozitie. Cu acest rol nu poti incarca fisiere sau alte acte, nu poti accesa alte documente decat cele pe care ti le-a trimis firma, nu poti sterge sau modifica actele. E cel mai simplu rol, cel care doar primeste acte in vedere semnarii, instruirii si verificarii online in domeniul SSM.
+
+
+
+![](.gitbook/assets/image%20%28122%29.png)
+
+**Vizualizare angajati/documente.** Acest rol poate fi atribuit persoanelor din Audit/ITM, Fortele de Munca sau oricare alta autoritate avizata, pentru vizualizarea actelor aprobate din firma respectiva. 
+
+Nu poate aduce nicio modificare asupra actelor prezentate, ci doar le poate vizualiza/consemna.
+
+
 
 
 

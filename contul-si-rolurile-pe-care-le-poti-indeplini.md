@@ -1,8 +1,12 @@
 # Contul de SSM si rolurile pe care le poti avea in platforma
 
+{% hint style="info" %}
 In primul rand, trebuie sa intelegi ca exista **un singur cont care poate indeplini mai multe roluri.**
 
 Se va creea un singur cont si utilizatorul poate avea mai multe roluri cu acesta. 
+{% endhint %}
+
+ 
 
 
 

@@ -3,12 +3,16 @@
 {% hint style="info" %}
 In primul rand, trebuie sa intelegi ca exista **un singur cont care poate indeplini mai multe roluri.**
 
-Se va creea un singur cont si utilizatorul poate avea mai multe roluri cu acesta. 
+Se va creea un singur cont, in care utilizatorul poate avea mai multe roluri.
 {% endhint %}
 
  
 
+**Ce inseamna aceste roluri?** 
 
+Un rol poate fi o interfata.  
+
+3 roluri, 3 interfete.
 
 **Exemplu**: 
 

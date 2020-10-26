@@ -34,7 +34,7 @@ Alege rolul pe care-l ai si vezi documentatia.
 
 ![](.gitbook/assets/image%20%28122%29.png)
 
-**Gestionarea aplicatiei** inseamna ****ca ai rol de gestionare si poti fi Inspector SSM,  poti fi persoana care se va ocupa integral de documentatia SSM pentru o  firma care te-a numit in acest rol, poti fi chiar administratorul firmei tale si doresti sa ai rolul de gestionare al aplicatiei SSM.
+**Gestionarea aplicatiei** inseamna ****ca ai rol de gestionare si poti fi Inspector SSM,  poti fi persoana care se va ocupa integral de documentatia SSM pentru o  firma care te-a numit in acest rol, poti fi chiar administratorul firmei tale si doresti sa ai si rolul de gestionare al aplicatiei SSM.
 
 Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si pot avea acces mai multe persoane, desigur, fiecare cu contul sau.
 

@@ -14,7 +14,7 @@ Se va creea un singur cont si utilizatorul poate avea mai multe roluri cu acesta
 
 Ion Popescu si-a creat un cont pe platforma SSM.ro la invitatia firmei la care lucreaza, pentru a se putea instrui online. Acesta fiind cel mai simplu rol, acela de angajat intr-o firma. Cu acest cont, el se va putea instrui, va putea semna actele pe care i le va trimite firma, sa le citeasca, semneze, etc. 
 
-Cu acest rol, cel de angajat, va avea acces doar la documentele trimise pentru el, de catre firma care l-a ivitat.
+Cu acest rol, cel de angajat, va avea acces doar la documentele trimise pentru el, de catre firma care l-a ivitat. Nu va putea modifica, sterge sau incarca alte acte. Va putea doar sa vafa ce acte ii sunt alocate de catre firma, ce acte are de semnat, care sunt aprobate si in asteptare.
 
 Daca firma la care lucreaza, il va considera potrivit, el va putea, cu acordul acesteia, sa gestioneze si contul de SSM, avand rol de gestionare si astfel va aputea avea acces la toate actele introduse in platforma. 
 

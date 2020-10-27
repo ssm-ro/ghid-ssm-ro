@@ -7,7 +7,9 @@ Inspectorul SSM gestioneaza intregul cont al unei firme. Inspectorul poate crea 
 
 
 {% hint style="info" %}
-Deasemenea, acest rol de Inspector SSM, il poate avea si o alta persoana desemata de catre o firma sau chiar patronul firmei sau secretara, daca asa va decide conducerea firmei respective.
+Deasemenea, acest rol de Inspector SSM, il poate avea si o alta persoana desemata de catre o firma, poate fi chiar patronul firmei, secretara firmei, contabilul, sau o alta persoana angajata a firmei, daca asa va decide conducerea firmei respective. 
+
+Pot avea acces mai multe persoane pe un singur cont.
 {% endhint %}
 
  

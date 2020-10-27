@@ -8,11 +8,17 @@ Se va creea un singur cont, in care utilizatorul poate avea mai multe roluri.
 
  
 
+![](.gitbook/assets/image%20%28124%29.png)
+
+Fiecarei persoane i se poate atribui rolul pe care doresti sa-l aiba in aplicatie. 
+
+Poate avea si rol de angajat si rol de gestionare.
+
+
+
 **Ce inseamna aceste roluri?** 
 
-Un rol este o interfata.  
-
-3 roluri, 3 interfete.
+Un rol este o interfata. 
 
 **Exemplu**: 
 

@@ -68,9 +68,11 @@ Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si
 
 ![](.gitbook/assets/image%20%28122%29.png)
 
-**Vizualizare angajati/documente.** Acest rol poate fi atribuit persoanelor din Audit/ITM, Fortele de Munca sau oricare alta autoritate avizata, pentru vizualizarea actelor aprobate din firma respectiva. 
+**Vizualizare angajati/documente.** Acest rol poate fi atribuit persoanelor care nu fac parte dintr-o firma, dar pot primi accepta acesteia de a vizualiza documente aprobate in someniul SSM.
 
-Nu poate aduce nicio modificare asupra actelor prezentate, ci doar le poate vizualiza/consemna.
+ Pot fi cu rol Control-Audit si pot astfel vizualiza actele aprobate din firma respectiva sau pot fi persoane care vin in firma pentru executarea unor servicii.
+
+Nu pot aduce nicio modificare asupra actelor prezentate, ci doar le poate vizualiza/consemna.
 
 
 

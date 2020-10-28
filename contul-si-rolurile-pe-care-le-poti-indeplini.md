@@ -10,7 +10,7 @@ Se va creea un singur cont, cu care utilizatorul poate indeplini mai multe rolur
 
 ![](.gitbook/assets/image%20%28126%29.png)
 
-Fiecarei persoane i se atribuie rolul pe care doresti sa-l aiba in aplicatie. 
+Fiecarei persoane i se va atribui de care cel care va crea contul, rolul pe care se doreste sa-l aiba in aplicatie. 
 
 Poate avea si rol de angajat si rol de gestionare.
 

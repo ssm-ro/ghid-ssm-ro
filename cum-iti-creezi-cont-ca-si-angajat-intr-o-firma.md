@@ -2,9 +2,9 @@
 
 In cazul in care, esti angajat, si trebuie sa-ti faci prima instruire online.
 
-Pentru a  intra pe platforma SSM, trebuie sa primesti pe emailul tau, un link de acces la platforma, adica o invitatie din partea angajatorului.
+Pentru a  intra pe platforma SSM, trebuie sa primesti pe emailul tau, un link de acces in platforma, adica o invitatie din partea angajatorului tau.
 
-Va trebui sa accepti invitatia apasand pe butonul de **ACCEPTA** si odata ajuns pe ssm.ro, sa-ti creezi un cont al tau cu datele tale.
+Va trebui sa accepti invitatia apasand pe butonul de **ACCEPTA** si odata ajuns pe ssm.ro, sa-ti creezi un cont al tau, cu datele tale.
 
 **Cum iti creezi cont daca esti un angajat intr-o firma?** 
 

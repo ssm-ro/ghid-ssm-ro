@@ -3,7 +3,7 @@
 {% hint style="info" %}
 In primul rand, trebuie sa intelegi ca exista **un singur cont care poate indeplini mai multe roluri.**
 
-Se va creea un singur cont, in care utilizatorul poate avea mai multe roluri.
+Se va creea un singur cont, cu care utilizatorul poate indeplini mai multe roluri.
 {% endhint %}
 
  
@@ -24,11 +24,13 @@ Un rol este o interfata.
 
 Ion Popescu si-a creat un cont pe platforma SSM.ro la invitatia firmei la care lucreaza, pentru a se putea instrui online. Acesta fiind cel mai simplu rol, acela de angajat intr-o firma. Cu acest cont, el se va putea instrui, va putea semna actele pe care i le va trimite firma, sa le citeasca, semneze, etc. 
 
-Cu acest rol, cel de angajat, va avea acces doar la documentele trimise pentru el, de catre firma care l-a ivitat. Nu va putea modifica, sterge sau incarca alte acte. Va putea doar sa vafa ce acte ii sunt alocate de catre firma, ce acte are de semnat, care sunt aprobate si in asteptare.
+Cu acest rol, cel de angajat, va avea acces doar la documentele sale,  trimise de catre firma care l-a ivitat. Nu va putea modifica, sterge sau incarca alte acte. Va putea doar sa vada ce acte ii sunt alocate de catre firma, ce acte are de semnat, care sunt aprobate si care in asteptare.
 
-Daca firma la care lucreaza, il va considera potrivit, el va putea, cu acordul acesteia, sa gestioneze si contul de SSM, avand rol de gestionare si astfel va aputea avea acces la toate actele introduse in platforma. 
+Daca firma la care lucreaza, va dori ca el sa poate gestiona si contul firmei de SSM, atunci putem vorbi de 2 roluri: unul, cel de angajat al firmei si al2a rol, cel de gestionare a contului firmei la care lucreaza.
 
-Si acest lucru se va realiza tot in baza aceluiasi cont, doar ca firma lui ii va permite accesul pentru gestionare. 
+In primul rol, cel de angajat va vedea doar documentele sale, in cel de al 2 lea rol, cel de gestionare a con tului firmei, va putea vedea toate documentele  incarcate in platforma ale firmei pe domeniul SSM.
+
+Ambele roluri realizandu-se in baza unui singur cont. 
 
 Firma poate permite mai multor persoane sa aiba rol de gestionare, si acestea pot vizualiza/modifica/sterge, etc...orice acte din contul acesteia.
 

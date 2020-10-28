@@ -11,14 +11,10 @@ Se va creea un singur cont, cu care utilizatorul poate indeplini mai multe rolur
 ![](.gitbook/assets/image%20%28126%29.png)
 
 {% hint style="info" %}
-Fiecarei persoane i se va atribui de care cel care va crea contul, rolul pe care se doreste sa-l aiba in aplicatie. 
+Fiecarei persoane i se va atribui de catre cel care va crea contul, rolul pe care se doreste sa-l aiba in aplicatie. 
 
 Poate avea si rol de angajat si rol de gestionare.
 {% endhint %}
-
- 
-
-
 
 **Ce inseamna aceste roluri?** 
 
@@ -58,7 +54,7 @@ Alege rolul pe care-l ai si vezi documentatia.
 
 **Gestionarea aplicatiei** inseamna ****ca ai rol de gestionare si ai acces la tot panoul platformei, la toate actele, documentele, fisele, etc.
 
-Acest rol il are un Inspector SSM, il poate avea o persoana care se va ocupa integral de documentatia SSM pentru firma care l-a numit in acest rol, poate fi chiar administratorul firmei sale, daca doreste sa aiba acces la toate documentele SSM, poate fi oricine primeste acest drept din partea unei firme.
+Acest rol il poate avea un Inspector SSM, il poate avea o persoana care se va ocupa integral de documentatia SSM pentru firma care l-a numit in acest rol, poate fi chiar administratorul firmei sale, daca doreste sa aiba acces la toate documentele SSM, poate fi oricine primeste acest drept din partea unei firme.
 
 Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si pot avea acces mai multe persoane, desigur, fiecare cu contul sau.
 

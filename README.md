@@ -151,7 +151,7 @@ O parola te va ajuta:
 * Prin stocarea în cloud cu back-up automat, riscul pierderii documentelor este diminuat semnificativ.
 * Iti poti organiza informatiile intr-o structură de documente electronice, ușor de accesat și verificat, monitorizată automat, pentru eficientizare.
 * Reduci la minim timpul, energia si eforturile, prin eficientizarea activitatii online 
-* Realizezi instruirile și evaluările angajaților la distanță, precum și testările periodice prin chestionare online.
+* Realizezi instruirile și evaluarile angajaților la distanță, precum și testarile periodice prin chestionare online.
 
 ##  Ce functionalitati ofera SSM.ro?
 

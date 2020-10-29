@@ -64,7 +64,9 @@ Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si
 
 
 
-**Documente mele.**  De regula, acest rol e cel de angajat si are acces doar la documentele pe care firma  i le va pune la dispozitie. Cu acest rol nu poti incarca fisiere sau alte acte, nu poti accesa alte documente decat cele pe care ti le-a trimis firma, nu poti sterge sau modifica actele. E cel mai simplu rol, cel care doar primeste acte in vedere semnarii, instruirii si verificarii online in domeniul SSM.
+**Documente mele.**  De regula, acest rol e cel de angajat si are acces doar la documentele pe care firma  i le va pune la dispozitie. Cu acest rol nu poti incarca fisiere sau alte acte, nu poti accesa alte documente, decat cele pe care ti le-a trimis firma, nu poti sterge sau modifica actele.
+
+ E cel mai simplu rol, cel care doar primeste acte in vedere semnarii, instruirii si verificarii online in domeniul SSM.
 
 
 
@@ -77,6 +79,12 @@ Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si
 Nu pot aduce nicio modificare asupra actelor prezentate, ci doar le poate vizualiza/consemna.
 
 
+
+{% hint style="info" %}
+Si pentru **Vizualizare angajati/documente** trebuie sa ai un cont in aplicatie.
+
+Cum iti faci cont? Apasa aici.
+{% endhint %}
 
 
 

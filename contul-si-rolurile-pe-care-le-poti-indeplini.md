@@ -1,48 +1,44 @@
 # Contul de SSM si rolurile pe care le poti avea in platforma
 
 {% hint style="info" %}
-In primul rand, trebuie sa intelegi ca exista **un singur cont care poate indeplini mai multe roluri.**
+Exista 3 tipuri de cont si poti indeplini mai multe roluri.
 
-Se va creea un singur cont, cu care utilizatorul poate indeplini mai multe roluri.
+Inspector SSM, Control-Audit si Personal cu 3 variante de cont: administrator firma, angajat, vizitator.
 {% endhint %}
 
  
 
-![](.gitbook/assets/image%20%28126%29.png)
+![](.gitbook/assets/image%20%28129%29.png)
 
 {% hint style="info" %}
 Fiecarei persoane i se va atribui de catre cel care va crea contul, rolul pe care se doreste sa-l aiba in aplicatie. 
 
-Acea persoana poate avea si rol de angajat si rol de gestionare.
+Acea persoana poate avea si rol de angajat si rol de gestionare, daca se doreste acest lucru.
 {% endhint %}
 
 **Ce inseamna aceste roluri?** 
 
-Un rol este o interfata. 
+Un rol este o interfata. In aplicatie avem 3 roluri, 3 interfete.
+
+1. Inspector SSM
+2. Control-Audit
+3. Personal \(administrator firma, angajat, vizitator\)
 
 **Exemplu**: 
 
 Ion Popescu si-a creat un cont pe platforma SSM.ro la invitatia firmei la care lucreaza, pentru a se putea instrui online. 
 
-Acesta fiind cel mai simplu rol, acela de angajat intr-o firma. Cu acest cont, el se va putea instrui, va putea semna actele pe care i le va trimite firma, sa le citeasca, semneze, etc. 
+Acesta este contul Personal cu rol de angajat intr-o firma. 
 
-Cu acest rol, cel de angajat, va avea acces doar la documentele sale,  trimise de catre firma care l-a ivitat. Nu va putea modifica, sterge sau incarca alte acte. Va putea doar sa vada ce acte ii sunt alocate de catre firma, ce acte are de semnat, care sunt aprobate si care in asteptare.
+Cu acest cont, el se va putea instrui, va putea semna actele pe care i le va trimite firma/Inspectorul SSM, sa le citeasca, semneze, etc. 
 
-Daca firma la care lucreaza, va dori ca el sa gestioneze si contul firmei de SSM, atunci putem vorbi de 2 roluri: unul, cel de angajat al firmei si al 2lea rol, cel de gestionare a contului firmei la care lucreaza.
+Cu acest rol, cel de angajat, va avea acces doar la documentele sale,  trimise de catre firma/Inspectorul SSM.
 
-In primul rol, cel de angajat va vedea doar documentele sale, in cel de al 2 lea rol, cel de gestionare a con tului firmei, va putea vedea toate documentele  incarcate in platforma ale firmei pe domeniul SSM.
+ Nu va putea modifica, sterge sau incarca alte acte. Va putea doar sa vada ce acte ii sunt alocate, ce acte are de semnat, care sunt aprobate si care in asteptare.
 
-Ambele roluri realizandu-se in baza unui singur cont. 
-
-Firma poate permite mai multor persoane sa aiba acest rol de gestionare, si acestea pot aduce  modificari/stergeri, adaugari, etc...de acte din contul acesteia.
+![](.gitbook/assets/roluri3.jpg)
 
 
-
-Dar, Ion Popescu mai are si o firma a lui, pe care deasemenea, a introdus-o in platorma si cu acelasi cont va putea gestiona toate actele firmei si angajatilor sai, pentru ca el va avea rol de gestionare aplicatie si va avea acces la toata informatia introdusa.
-
-Ion Popescu poate fi si Inspector SSM si poate avea in gestiune mai multe firme, cu acelasi cont.
-
- 
 
 ![](.gitbook/assets/image%20%28120%29.png)
 
@@ -54,39 +50,27 @@ Alege rolul pe care-l ai si vezi documentatia.
 
 ![](.gitbook/assets/image%20%28123%29.png)
 
-**Gestionarea aplicatiei** inseamna ****ca ai rol de gestionare si ai acces la tot panoul platformei, la toate actele, documentele, fisele, etc.
+**Gestionarea aplicatiei** inseamna ****ca ai cont de Inspector SSM si ai acces la tot panoul platformei, la toate actele, documentele, fisele din firma sau firmele pe care le vei coordona pe domeniul SSM.
 
-Acest rol il poate avea un Inspector SSM, il poate avea o persoana care se va ocupa integral de documentatia SSM pentru firma care l-a numit in acest rol, poate fi chiar administratorul firmei sale, daca doreste sa aiba acces la toate documentele SSM, poate fi oricine primeste acest drept din partea unei firme.
+{% hint style="info" %}
+Firma poate permite si altor persoane sa aiba rol de gestionare/cont Inspector.
+{% endhint %}
 
-Cine are acest rol, are acces la intreaga ducumentatie introdusa in platforma si pot avea acces mai multe persoane, desigur, fiecare cu contul sau.
+Cu acest cont ai acces la intreaga ducumentatie introdusa in platforma si poati aduce orice modificari asupra documentatiei din contul firmei respective.
 
 ![](.gitbook/assets/image%20%28121%29.png)
 
 
 
-**Documente mele.**  De regula, acest rol e cel de angajat si are acces doar la documentele pe care firma  i le va pune la dispozitie. Cu acest rol nu poti incarca fisiere sau alte acte, nu poti accesa alte documente, decat cele pe care ti le-a trimis firma, nu poti sterge sau modifica actele.
+**Documente mele.**  Este valabil pentru contul Personal cu cele 3 variante de cont: administrator firma, angajat, vizitator.
 
- E cel mai simplu rol, cel care doar primeste acte in vedere semnarii, instruirii si verificarii online in domeniul SSM.
+ Cu acest rol nu poti incarca fisiere sau alte acte, nu poti accesa alte documente, decat cele pe care ti le-a trimis firma, nu poti sterge sau modifica actele.
 
 
 
 ![](.gitbook/assets/image%20%28122%29.png)
 
-**Vizualizare angajati/documente.** Acest rol poate fi atribuit persoanelor care nu fac parte din firma la care se doreste intrarea in cont si vizualizarea actelor, dar pot primi acceptul acesteia de a vizualiza documentele aprobate in domeniul SSM.
-
- Pot fi cu rol Control-Audit si pot astfel vizualiza actele aprobate din firma respectiva sau pot fi persoane care vin in firma pentru executarea unor servicii.
-
-Nu pot aduce nicio modificare asupra actelor prezentate, ci doar le poate vizualiza/consemna.
-
-
-
-{% hint style="info" %}
-Si pentru **Vizualizare angajati/documente** trebuie sa ai un cont in aplicatie.
-
-Cum iti faci cont? 
-{% endhint %}
-
-
+**Vizualizare angajati/documente.**  Pot fi persoanele cu rol Control-Audit si pot astfel vizualiza actele aprobate dinr-o firma, fara a aduce vreo modificare asupra actelor din cont.
 
 
 

@@ -1,9 +1,13 @@
 # Contul de SSM si rolurile pe care le poti avea in platforma
 
 {% hint style="info" %}
-Exista 3 tipuri de cont si poti indeplini mai multe roluri.
+ Cu un singur cont poti indeplini mai multe roluri.
 
-Inspector SSM, Control-Audit si Personal cu 3 variante de cont: administrator firma, angajat, vizitator.
+1.Inspector SSM, 
+
+2.Control-Audit 
+
+3.Personal cu 3 variante de cont: administrator firma, angajat, vizitator.
 {% endhint %}
 
  
@@ -16,13 +20,13 @@ Fiecarei persoane i se va atribui de catre cel care va crea contul, rolul pe car
 Acea persoana poate avea si rol de angajat si rol de gestionare, daca se doreste acest lucru.
 {% endhint %}
 
-**Ce inseamna aceste roluri?** 
+**Ce inseamna aceste roluri?**  Un rol este o interfata. 
 
-Un rol este o interfata. In aplicatie avem 3 roluri, 3 interfete.
+     1.Inspector SSM
 
-1. Inspector SSM
-2. Control-Audit
-3. Personal \(administrator firma, angajat, vizitator\)
+     2.Control-Audit
+
+     3.Personal \(administrator firma, angajat, vizitator\)
 
 **Exemplu**: 
 

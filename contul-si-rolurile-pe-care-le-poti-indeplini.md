@@ -40,13 +40,17 @@ Cu acest rol, cel de angajat, va avea acces doar la documentele sale,  trimise d
 
 
 
+In contul tau poti avea mai multe firme si in fiecare din ele poti indeplini roluri diferite.
+
+Alege rolul pe care-l ai si vezi documentatia.
+
+
+
 ![](.gitbook/assets/image%20%28120%29.png)
 
 
 
-In contul tau poti avea mai multe firme si in fiecare din ele poti indeplini roluri diferite.
-
-Alege rolul pe care-l ai si vezi documentatia.
+**Descriere roluri:**
 
 ![](.gitbook/assets/image%20%28123%29.png)
 

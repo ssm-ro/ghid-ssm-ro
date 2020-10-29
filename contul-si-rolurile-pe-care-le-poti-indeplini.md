@@ -83,7 +83,7 @@ Nu pot aduce nicio modificare asupra actelor prezentate, ci doar le poate vizual
 {% hint style="info" %}
 Si pentru **Vizualizare angajati/documente** trebuie sa ai un cont in aplicatie.
 
-Cum iti faci cont? Apasa aici.
+Cum iti faci cont? 
 {% endhint %}
 
 

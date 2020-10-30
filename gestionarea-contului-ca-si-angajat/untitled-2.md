@@ -1,6 +1,6 @@
 # 11. Pot avea acces la mai multe firme?
 
-Cu [**contul tau**](../cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md) ****poti avea acces la mai multe firme, daca primesti din partea a doua sau mai multe firme, invitatie,  pentru conectarea in platforma. 
+Cu [**contul tau**](../cum-iti-creezi-cont-ca-si-angajat-intr-o-firma.md) ****poti avea acces la mai multe firme, daca primesti din partea acestora, invitatie, pentru conectarea in platforma. 
 
   Vei avea acces la documentele care iti vor fi alocate pentru vizualizare, consultare, semnare, dupa caz.
 

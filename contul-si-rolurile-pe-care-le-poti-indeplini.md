@@ -3,7 +3,7 @@
 {% hint style="info" %}
  Cu un singur cont poti indeplini mai multe roluri.
 
-1.Inspector SSM, 
+1.Inspector SSM
 
 2.Control-Audit 
 

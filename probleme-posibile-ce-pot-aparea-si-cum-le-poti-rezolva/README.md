@@ -2,7 +2,7 @@
 
  
 
-In acest capitol, vei gasi solutii/raspunsuri  la diverse situatii cu care ai putea confrunta in folosirea platformei.
+In acest capitol, vei regasi solutii si rezolvari la diverse situatii cu care ai putea sa te intalnesti in folosirea platformei.
 
 Subcapitolele te duc la solutionarea problemei care te intereseaza.
 

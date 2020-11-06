@@ -155,9 +155,9 @@ O parola te va ajuta:
 
 ##  Ce functionalitati ofera SSM.ro?
 
-Prin SSM.ro iti digitalizezi întreaga activitate SSM și te scapă de timpul petrecut cu instruirile, evaluările și semnarea documentelor prin generarea de documente, generarea de tematici, generarea de instruiri si semnaturi.
+Prin SSM.ro iti digitalizezi întreaga activitate SSM și te scapă de timpul petrecut cu instruirile si semnarea documentelor prin generarea de documente, generarea de tematici, generarea de instruiri si semnaturi.
 
- Indiferent că firma ta are 1 sau 10.000 de angajați, aplicația SSM.ro îți simplifică activitatea.
+ Indiferent ca firma ta are 1 sau 10.000 de angajați, aplicația SSM.ro iti simplifica activitatea.
 
 ![](.gitbook/assets/image%20%2835%29.png)
 
